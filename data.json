@@ -1,0 +1,20 @@
+[
+   {
+      "value":"INT000001730",
+      "expired":0,
+      "progress":2.5,
+      "remaining":7.5
+   },
+   {
+      "value":"INT000001731",
+      "expired":0,
+      "progress":4.5,
+      "remaining":5.5
+   },
+   {
+      "value":"INT000001732",
+      "expired":0,
+      "progress":6.5,
+      "remaining":3.5
+   }
+]
